@@ -1,5 +1,6 @@
 ---
 # defaults file for mapr-jobtracker
+classic_enabled: True
 
 proxy_env: { }
 
